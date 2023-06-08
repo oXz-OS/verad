@@ -1,11 +1,4 @@
 {
-  "app_name": "Check App Version",
   "new_app_version": "1.6.0",
-  "new_app_code": "37",
-  "android_package": "com.besimsoft.example",
-  "ios_package": "com.besimsoft.example",
   "windows_package" : "com.example.super_installtion",
-  "linux_package" : "example",
-  "macos_package" : "example",
-  "ios_app_id": "324324"
 }
